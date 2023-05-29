@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Персональные данные регистрации</string>
+    <string-array name="hints">
+        <item>Ваше имя</item>
+        <item>Ваша фамилия</item>
+        <item>Ваш возраст</item>
+        <item>Количество бронируемых мест</item>
+    </string-array>
+    <string name="answer">Ваши ответы:</string>
+
+</resources>
